@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there This is an account for a young man who dreams of becoming a computer engineer Please support me.. 👋
 ![3d image!](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif)
 <!--
 **BookCnk/Bookcnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
