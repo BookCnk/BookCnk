@@ -33,35 +33,12 @@
 
 <h2>Contact me <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png" width=32px /></h2>
 
-<a href="https://fb.com/thunder2004" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>   
-   <a href="https://instagram.com/kitton._" target="_blank">
+   <a href="https://www.instagram.com/book_cnk_/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>  
   
 
-<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lnwtxn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lnwtxn&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lnwtxn&show_icons=true&locale=en&layout=compact&theme=algolia" alt="lnwtxn" height="192px"/>
-  <br/>
-  </p>
-</details>
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/lnwtxn"><img alt="lnwtxn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lnwtxn&custom_title=lnwtxn's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
 
 
