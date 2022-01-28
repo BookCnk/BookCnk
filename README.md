@@ -1,16 +1,67 @@
-### Hi there This is an account for a young man who dreams of becoming a computer engineer Please support me.. 👋
-![3d image!](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif)
-<!--
-**BookCnk/Bookcnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-Here are some ideas to get you started:
+   
+<p align="center">
+<i><br>Hello, My name is Chanakarn you can call me Book <br> How bad will it be today?. <br> It's only 24 hours. </i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+ <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+
+   <a href="https://www.cprogramming.com/" target="_blank">
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  </a>
+
+  <a href="https://html.com/" target="_blank">
+    <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+    <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
+  
+  <a href="https://www.javascript.com/" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white">
+  </a>
+  
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  </a>
+
+<h2>Contact me <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png" width=32px /></h2>
+
+<a href="https://fb.com/thunder2004" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>   
+   <a href="https://instagram.com/kitton._" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>  
+  
+
+<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lnwtxn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lnwtxn&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lnwtxn&show_icons=true&locale=en&layout=compact&theme=algolia" alt="lnwtxn" height="192px"/>
+  <br/>
+  </p>
+</details>
+
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/lnwtxn"><img alt="lnwtxn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lnwtxn&custom_title=lnwtxn's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+
